@@ -44,7 +44,15 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-  **Installation**
+## 📦 Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/PoojaSahrawat/my-portfolio.git
+   cd my-portfolio
+
+
+ **Installation**
 
 Install the project dependencies using npm:
 
@@ -71,10 +79,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
-
-## 📦 Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/PoojaSahrawat/my-portfolio.git
-   cd my-portfolio
