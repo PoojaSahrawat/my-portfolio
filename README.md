@@ -2,21 +2,35 @@
 
 This is a 3D animated portfolio website built using modern web technologies like React, Three.js, and GSAP. It showcases my projects, skills, and experience.
 
-## 🚀 Features
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- 3D animations and smooth transitions
-- GSAP-based scroll effects
-- Responsive and mobile-friendly layout
-- Projects and Achievements section
-- Contact form
-
-## 🛠 Tech Stack
-
-- React
-- Tailwind CSS
 - Three.js
+- React Three Fiber
+- Drei
 - GSAP
-- Vite / Webpack (depending on your setup)
+- Tailwind CSS
+- Vite
+- React 19
+
+## <a name="features">🔋 Features</a>
+
+### Features of the 3D Portfolio Project
+
+👉 Animated 3D models and reveal animations
+
+👉 Realistic lighting and shadows
+
+👉 GSAP-powered scroll interactions
+
+👉 Responsive design with Tailwind CSS and Flexbox/Grid
+
+👉 Micro Interactions
+
+👉 Multi-section layout (About, Projects, Contact)
+
+👉 Mobile optimized 3D experience
+
+and many more, including code architecture and reusability.
 
 ## 📦 Setup
 
